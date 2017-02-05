@@ -1,0 +1,8 @@
+Package: com.bitethebigone.testtheme
+Name: Test Theme
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Test Theme Alpha
+Maintainer: Parker Byfield (Bite The Big One)
+Author: Parker Byfield (Bite The Big One)
+Section: Themes (Springboard)
